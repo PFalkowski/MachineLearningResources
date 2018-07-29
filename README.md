@@ -1,5 +1,6 @@
 # MachineLearningResources
-Resources to kick start your machine learning project. Prefered are open source, practical, short and code centric resources. 
+Resources to kick start your machine learning project. 
+Prefered are open source, practical, short and code centric resources. 
 The ordering is from beginner to expert.
 
 Playgrounds:
