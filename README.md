@@ -24,7 +24,7 @@ Frameworks:
 - [PyTorch](https://facebook.ai/developers/tools#frameworks): Open source, expert deep learning toolkit from Facebook. Supports CUDA. [Repo on github](https://github.com/pytorch/pytorch)
 - [Open CV](https://opencv.org) Open Source Computer Vision Library. [Repo on github](https://github.com/opencv/opencv)
 
-JS libraries (would you ever prefere to dump heavy load on the client):
+JS libraries (would you ever prefer to dump heavy load on the client :trollface:):
 - [brain.js](https://github.com/BrainJS/brain.js)
 - [convnetjs](https://github.com/karpathy/convnetjs)
 - [brain](https://github.com/harthur/brain)
