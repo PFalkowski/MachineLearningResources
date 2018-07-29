@@ -6,6 +6,13 @@ The ordering is from beginner to expert.
 Similar lists:
 - [deeplearning.net](http://deeplearning.net/)
 - [datasciencecentral.com](https://www.datasciencecentral.com/profiles/blogs/15-deep-learning-tutorials)
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
+- [ujjwalkarn/Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
+- [ZuzooVn/machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
+- [arbox/machine-learning-with-ruby](https://github.com/arbox/machine-learning-with-ruby)
+- [chasingbob/deep-learning-resources](https://github.com/chasingbob/deep-learning-resources)
+- [memo/ai-resources](https://github.com/memo/ai-resources)
+- [dhamaniasad/awesome-machine-learning](https://github.com/dhamaniasad/awesome-machine-learning)
 
 Playgrounds:
 - [Tensor Flow playground](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.46357&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
