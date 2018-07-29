@@ -5,6 +5,7 @@ Prefered are free / open source, practical resources.
 Similar lists:
 - [deeplearning.net](http://deeplearning.net/)
 - [datasciencecentral.com](https://www.datasciencecentral.com/profiles/blogs/15-deep-learning-tutorials)
+- [mbadry1/Top-Deep-Learning](https://github.com/mbadry1/Top-Deep-Learning)
 - [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
 - [ujjwalkarn/Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
 - [ZuzooVn/machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
@@ -12,6 +13,14 @@ Similar lists:
 - [chasingbob/deep-learning-resources](https://github.com/chasingbob/deep-learning-resources)
 - [memo/ai-resources](https://github.com/memo/ai-resources)
 - [dhamaniasad/awesome-machine-learning](https://github.com/dhamaniasad/awesome-machine-learning)
+- [off99555/machine-learning-curriculum](https://github.com/off99555/machine-learning-curriculum)
+- [aikorea/awesome-rl](https://github.com/aikorea/awesome-rl)
+- [endymecy/awesome-deeplearning-resources](https://github.com/endymecy/awesome-deeplearning-resources)
+- [wangruinju/Deep-Learning](https://github.com/wangruinju/Deep-Learning)
+- [bt3gl/Machine-Learning-Resources](https://github.com/bt3gl/Machine-Learning-Resources)
+- [guillaume-chevalier/Awesome-Deep-Learning-Resources](https://github.com/guillaume-chevalier/Awesome-Deep-Learning-Resources)
+- [h2oai/mli-resources](https://github.com/h2oai/mli-resources)
+- [CodingTrain/Machine-Learning](https://github.com/CodingTrain/Machine-Learning)
 
 Playgrounds:
 - [Tensor Flow playground](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.46357&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
