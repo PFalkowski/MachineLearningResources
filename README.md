@@ -1,6 +1,6 @@
-# MachineLearningResources
+# Machine Learning Resources
 Resources to kick start your machine learning project. 
-Prefered are open source, practical, short and code centric resources. 
+Prefered are free / open source and practical resources. 
 The ordering is from beginner to expert.
 
 Playgrounds:
@@ -23,11 +23,17 @@ Tutorials:
 
 - [Andrew Ng on Coursera](https://www.coursera.org/learn/machine-learning) Level: beginner. Cost: free
 - [Google ML tutorials](https://ai.google/education/) Level: beginner. Cost: free
+- [Intro to AI](https://eu.udacity.com/course/intro-to-artificial-intelligence--cs271) Level: beginner. Cost: free
+- [Intro to Machine Learning](https://eu.udacity.com/course/intro-to-machine-learning--ud120) Level: beginner. Cost: free
 - [Geoffrey Hinton on Coursera](https://www.coursera.org/course/neuralnets) Level: beginner/advanced. Cost: free
-- [Columbia University course](https://www.class-central.com/course/edx-machine-learning-7231) Advanced, free course covering only ML algorithms (no ANN)
-- [courses on Udacity](https://eu.udacity.com/courses/all)
 - [Learn Watson API on codeacademy](https://www.codecademy.com/learn/ibm-watson) Level: beginner/advanced. Cost: free
+- [UC Berkeley Intro to AI](http://ai.berkeley.edu/lecture_videos.html) Level: beginner/advanced. Cost: free
+- [Machine Learning by Georgia Tech](https://udacity.com/course/machine-learning--ud262) Level: beginner/advanced. Cost: free
+- [Columbia University course](https://www.class-central.com/course/edx-machine-learning-7231) Advanced, free course covering only ML algorithms (no ANN)
 - [MIT lectures "Deep Learning for Self-Driving Cars"](https://selfdrivingcars.mit.edu/) Level: advanced. Cost: free
+- [Reinforcement learning by Georgia Tech](https://eu.udacity.com/course/reinforcement-learning--ud600) Level: advanced. Cost: free
+- [Unsupervised Learning by Georgia Tech](https://eu.udacity.com/course/machine-learning-unsupervised-learning--ud741) Level: advanced. Cost: free
+
 
 Books:
 - [Machine Learning Using C#](https://www.syncfusion.com/ebooks/machine) free
