@@ -36,6 +36,7 @@ APIs:
 Comparisions:
 - [Comparison of deep learning software](https://en.wikipedia.org/wiki/Comparison_of_deep_learning_software)
 - [CUDA enabled deep learning frameworks](https://www.nvidia.com/en-us/deep-learning-ai/developer/)
+- [Neural Net in 10 Frameworks](https://medium.com/@iliakarmanov/neural-net-in-8-frameworks-lessons-learned-6a5e8e78b481)
 
 Tutorials:
 
@@ -46,9 +47,11 @@ Tutorials:
 - [Intro to Machine Learning](https://eu.udacity.com/course/intro-to-machine-learning--ud120) Level: beginner. Cost: free
 - [Statistics and probability on Khan Academy](https://www.khanacademy.org/math/statistics-probability) Level: beginner. Cost: free
 - [Short top 10 of ML algorithms](https://www.kdnuggets.com/2016/08/10-algorithms-machine-learning-engineers.html)
+- [The 10 Statistical Techniques Data Scientists Need to Master](https://medium.com/cracking-the-data-science-interview/the-10-statistical-techniques-data-scientists-need-to-master-1ef6dbd531f7) Short article on statistical learning
 - [Geoffrey Hinton on Coursera](https://www.coursera.org/course/neuralnets) Level: beginner/advanced. Cost: free
 - [Learn Watson API on codeacademy](https://www.codecademy.com/learn/ibm-watson) Level: beginner/advanced. Cost: free
 - [UC Berkeley Intro to AI](http://ai.berkeley.edu/lecture_videos.html) Level: beginner/advanced. Cost: free
+- [Hal Daumé III - A Course in Machine Learning](http://ciml.info/dl/v0_99/ciml-v0_99-all.pdf) Level: beginner/advanced. Cost: free
 - [Machine Learning by Georgia Tech](https://udacity.com/course/machine-learning--ud262) Level: beginner/advanced. Cost: free
 - [Columbia University course](https://www.class-central.com/course/edx-machine-learning-7231) Advanced, free course covering only ML algorithms (no ANN)
 - [MIT lectures "Deep Learning for Self-Driving Cars"](https://selfdrivingcars.mit.edu/) Level: advanced. Cost: free
@@ -57,6 +60,7 @@ Tutorials:
 - [youtube playlist on Machine Learning and ANN](https://visualstudiomagazine.com/Articles/2013/08/01/Neural-Network-Back-Propagation-Using-C.aspx?Page=1) Level: various. Cost: free
 - [Nvidia webinars](http://www.nvidia.com/object/webinar-portal.html)
 - [Supervised Learning - Comprehensive Tutorial](https://www.datasciencecentral.com/profiles/blogs/supervised-learning) In depth, python based tutorial
+- [TensorFlow Tutorial: 10 minutes Practical TensorFlow lesson for quick learners](http://cv-tricks.com/artificial-intelligence/deep-learning/deep-learning-frameworks/tensorflow-tutorial/)
 - [An overview of gradient descent optimization algorithms](http://ruder.io/optimizing-gradient-descent/index.html#adadelta) Expert level, free
 
 Example projects:
@@ -68,6 +72,12 @@ Example projects:
 - [NeuronDotNet](https://github.com/trarck/NeuronDotNet) library written in c# from scratch
 - [Convolutional Neural Network for Recognition of Handwritten Digits in C++](https://www.codeproject.com/Articles/16650/Neural-Network-for-Recognition-of-Handwritten-Digi)
 - [CoLabolatory - TensorFlow Python hands-on](https://colab.research.google.com/notebooks/welcome.ipynb#scrollTo=-Rh3-Vt9Nev9) It's not only project, but also free cloud, read what's great about it on [hackernoon](https://hackernoon.com/train-your-machine-learning-models-on-googles-gpus-for-free-forever-a41bd309d6ad) and [towardsdatascience](https://towardsdatascience.com/neural-networks-with-google-colaboratory-artificial-intelligence-getting-started-713b5eb07f14)
+- [Yet another introduction to Neural Networks](https://github.com/bhimmetoglu/talks-and-lectures/blob/master/MachineLearning/mnist/mnist_blog.ipynb): neural network from scratch in Python
+- [Sentiment Analysis with the Naive Bayes Classifier in Python](http://ataspinar.com/2016/02/15/sentiment-analysis-with-the-naive-bayes-classifier/)
+- [Logistic Regression in Python](http://ataspinar.com/2016/05/07/regression-logistic-regression-and-maximum-entropy-part-2-code-examples/)
+- [Perceptron in Python](http://ataspinar.com/2016/12/22/the-perceptron/)
+- [Time Series prediction with LSTM using C#](https://bhrnjica.net/2017/12/07/cntk-106-tutorial-time-series-prediction-with-lstm-using-c/)
+- [A Simple C# Genetic Algorithm](https://www.codeproject.com/Articles/3172/A-Simple-C-Genetic-Algorithm)
 
 Books:
 - [Machine Learning Using C#](https://www.syncfusion.com/ebooks/machine) free
