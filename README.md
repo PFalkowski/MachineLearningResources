@@ -24,7 +24,7 @@ Frameworks:
 | [Encog](https://www.heatonresearch.com/encog/) | cross-platform advanced machine learning framework for .NET with ANN | :heavy_check_mark: | :x: | [Github](https://github.com/encog/encog-dotnet-core) |
 | [Accord.Net](http://accord-framework.net/) | advanced machine learning framework for .NET with ANN, audio and image processing libraries | :heavy_check_mark: | :x: | [Github](https://github.com/accord-net/framework) |
 | [CNTK](https://www.microsoft.com/en-us/cognitive-toolkit/) | expert deep learning toolkit from Microsoft | :heavy_check_mark: | :heavy_check_mark: | [Github](https://github.com/Microsoft/CNTK) |
-| [Tensor Flow](https://www.tensorflow.org/) | expert deep learning toolkit from Facebook | :heavy_check_mark: | :heavy_check_mark: | [Github](https://github.com/vahidk/EffectiveTensorflow) |
+| [Tensor Flow](https://www.tensorflow.org/) | expert deep learning toolkit from Facebook | :heavy_check_mark: | :heavy_check_mark: | [Github](https://github.com/tensorflow/tensorflow) |
 | [PyTorch](https://facebook.ai/developers/tools#frameworks)| expert deep learning framework from Google built for extreme parallelism | :heavy_check_mark: | :heavy_check_mark: | [Github](https://github.com/pytorch/pytorch) |
 | [Open CV](https://opencv.org)| Computer Vision Library | :heavy_check_mark: | :heavy_check_mark: | [Github](https://github.com/opencv/opencv) |
 
@@ -66,6 +66,7 @@ Tutorials:
 - [MIT lectures "Deep Learning for Self-Driving Cars"](https://selfdrivingcars.mit.edu/) Level: advanced. Cost: free
 - [Reinforcement learning by Georgia Tech](https://eu.udacity.com/course/reinforcement-learning--ud600) Level: advanced. Cost: free
 - [Unsupervised Learning by Georgia Tech](https://eu.udacity.com/course/machine-learning-unsupervised-learning--ud741) Level: advanced. Cost: free
+- [TensorFlow tutorials and best practices](https://github.com/vahidk/EffectiveTensorflow) Level: advanced. Cost: free
 - [youtube playlist on Machine Learning and ANN](https://visualstudiomagazine.com/Articles/2013/08/01/Neural-Network-Back-Propagation-Using-C.aspx?Page=1) Level: various. Cost: free
 - [Nvidia webinars](http://www.nvidia.com/object/webinar-portal.html)
 - [Supervised Learning - Comprehensive Tutorial](https://www.datasciencecentral.com/profiles/blogs/supervised-learning) In depth, python based tutorial
