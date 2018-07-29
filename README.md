@@ -21,6 +21,9 @@ Similar lists:
 - [guillaume-chevalier/Awesome-Deep-Learning-Resources](https://github.com/guillaume-chevalier/Awesome-Deep-Learning-Resources)
 - [h2oai/mli-resources](https://github.com/h2oai/mli-resources)
 - [CodingTrain/Machine-Learning](https://github.com/CodingTrain/Machine-Learning)
+- [GeorgeMcIntire/collection_free_DL_resources](https://github.com/GeorgeMcIntire/collection_free_DL_resources)
+- [miguelsaddress/machine-learning-resources](https://github.com/miguelsaddress/machine-learning-resources)
+- [eyurtsev/ml-resources](https://github.com/eyurtsev/ml-resources)
 
 Playgrounds:
 - [Tensor Flow playground](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.46357&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
