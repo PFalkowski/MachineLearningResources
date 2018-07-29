@@ -23,9 +23,16 @@ Tutorials:
 
 - [Andrew Ng on Coursera](https://www.coursera.org/learn/machine-learning) Level: beginner. Cost: free
 - [Google ML tutorials](https://ai.google/education/) Level: beginner. Cost: free
+- [Geoffrey Hinton on Coursera](https://www.coursera.org/course/neuralnets) Level: beginner/advanced. Cost: free
+- [Columbia University course](https://www.class-central.com/course/edx-machine-learning-7231) Advanced, free course covering only ML algorithms (no ANN)
+- [courses on Udacity](https://eu.udacity.com/courses/all)
+- [Learn Watson API on codeacademy](https://www.codecademy.com/learn/ibm-watson) Level: beginner/advanced. Cost: free
+- [MIT lectures "Deep Learning for Self-Driving Cars"](https://selfdrivingcars.mit.edu/) Level: beginner/advanced. Cost: free
 
 Books:
-- [Clever Algorithms](https://pl.scribd.com/document/47728903/Jason-Brownlee-Clever-Algorithms) (Ruby)
+- [Machine Learning Using C#](https://www.syncfusion.com/ebooks/machine) free
+- [Neural Networks Using C#](https://www.syncfusion.com/ebooks/neuralnetworks) free
+- [Clever Algorithms](https://pl.scribd.com/document/47728903/Jason-Brownlee-Clever-Algorithms) (Ruby) free
 - Exploring Neural Networks with C#. [Free edition in Polish](http://otworzksiazke.pl/images/ksiazki/odkrywanie_wlasciwosci_sieci_neuronowych/odkrywanie_wlasciwosci_sieci_neuronowych.pdf)
 - Machine Learning For Hackers (R). [Code for the book](https://github.com/johnmyleswhite/ML_for_Hackers)
 - Metody i Techniki Sztucznej Inteigencji (Polish)
