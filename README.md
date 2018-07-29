@@ -25,6 +25,7 @@ Tutorials:
 - [Google ML tutorials](https://ai.google/education/) Level: beginner. Cost: free
 - [Intro to AI](https://eu.udacity.com/course/intro-to-artificial-intelligence--cs271) Level: beginner. Cost: free
 - [Intro to Machine Learning](https://eu.udacity.com/course/intro-to-machine-learning--ud120) Level: beginner. Cost: free
+- [Statistics and probability on Khan Academy](https://www.khanacademy.org/math/statistics-probability) Level: beginner. Cost: free
 - [Geoffrey Hinton on Coursera](https://www.coursera.org/course/neuralnets) Level: beginner/advanced. Cost: free
 - [Learn Watson API on codeacademy](https://www.codecademy.com/learn/ibm-watson) Level: beginner/advanced. Cost: free
 - [UC Berkeley Intro to AI](http://ai.berkeley.edu/lecture_videos.html) Level: beginner/advanced. Cost: free
@@ -33,7 +34,6 @@ Tutorials:
 - [MIT lectures "Deep Learning for Self-Driving Cars"](https://selfdrivingcars.mit.edu/) Level: advanced. Cost: free
 - [Reinforcement learning by Georgia Tech](https://eu.udacity.com/course/reinforcement-learning--ud600) Level: advanced. Cost: free
 - [Unsupervised Learning by Georgia Tech](https://eu.udacity.com/course/machine-learning-unsupervised-learning--ud741) Level: advanced. Cost: free
-
 
 Books:
 - [Machine Learning Using C#](https://www.syncfusion.com/ebooks/machine) free
