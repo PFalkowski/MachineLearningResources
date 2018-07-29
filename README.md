@@ -20,7 +20,7 @@ Frameworks:
 | Name        | Description | Open Source           | CUDA | API | Repository  |
 | ------------- |:------------|:-------------:|:-------------:|:-------------:| -----:|
 | [Orange Ai](https://orange.biolab.si/) | Open source machine learning and data visualization tool | :heavy_check_mark: | :x: | Python | [Github](https://github.com/biolab/orange3) |
-| [ML.NET](https://www.microsoft.com/net/learn/apps/machine-learning-and-ai/ml-dotnet) | cross-platform machine learning framework | :heavy_check_mark: | :x: | .NET | [Github](https://github.com/dotnet/machinelearning) |
+| [ML.NET](https://www.microsoft.com/net/learn/apps/machine-learning-and-ai/ml-dotnet) | cross-platform machine learning framework with support for Light GBM, Accord.NET, CNTK, and TensorFlow coming soon | :heavy_check_mark: | :x: | .NET | [Github](https://github.com/dotnet/machinelearning) |
 | [Encog](https://www.heatonresearch.com/encog/) | cross-platform advanced machine learning framework with ANN | :heavy_check_mark: | [:x:](https://www.heatonresearch.com/encog/encog_gpu.html) | .NET, Java, JS | [Github](https://github.com/encog/encog-dotnet-core) |
 | [Accord.Net](http://accord-framework.net/) | advanced machine learning framework for .NET with ANN, audio and image processing libraries | :heavy_check_mark: | [:x:](https://github.com/accord-net/framework/issues/634) | .NET | [Github](https://github.com/accord-net/framework) |
 | [CNTK](https://www.microsoft.com/en-us/cognitive-toolkit/) | expert deep learning toolkit from Microsoft | :heavy_check_mark: | :heavy_check_mark: | C++, Python, [.NET](https://docs.microsoft.com/en-us/cognitive-toolkit/using-cntk-with-csharp), BrainScript, CommandLine | [Github](https://github.com/Microsoft/CNTK) |
@@ -41,6 +41,7 @@ Comparisions:
 - [Comparison of deep learning software](https://en.wikipedia.org/wiki/Comparison_of_deep_learning_software)
 - [CUDA enabled deep learning frameworks](https://www.nvidia.com/en-us/deep-learning-ai/developer/)
 - [Neural Net in 10 Frameworks](https://medium.com/@iliakarmanov/neural-net-in-8-frameworks-lessons-learned-6a5e8e78b481)
+- [The Deep Learning Framework Showdown: TensorFlow vs CNTK](https://hub.packtpub.com/dl-frameworks-tensorflow-vs-cntk/)
 
 Tutorials:
 
