@@ -25,7 +25,7 @@ Frameworks:
 | [Accord.Net](http://accord-framework.net/) | advanced machine learning framework for .NET with ANN, audio and image processing libraries | :heavy_check_mark: | [:x:](https://github.com/accord-net/framework/issues/634) | .NET | [Github](https://github.com/accord-net/framework) |
 | [CNTK](https://www.microsoft.com/en-us/cognitive-toolkit/) | expert deep learning toolkit from Microsoft | :heavy_check_mark: | :heavy_check_mark: | C++, Python, [.NET](https://docs.microsoft.com/en-us/cognitive-toolkit/using-cntk-with-csharp), BrainScript, CommandLine | [Github](https://github.com/Microsoft/CNTK) |
 | [Tensor Flow](https://www.tensorflow.org/) | expert deep learning framework from Google built for extreme parallelism | :heavy_check_mark: | :heavy_check_mark: | Python, C/C++, Java, Go, R, Julia | [Github](https://github.com/tensorflow/tensorflow) |
-| [PyTorch](https://facebook.ai/developers/tools#frameworks)| expert deep learning toolkit from Facebook | :heavy_check_mark: | :heavy_check_mark: | Py | [Github](https://github.com/pytorch/pytorch) |
+| [PyTorch](https://facebook.ai/developers/tools#frameworks)| expert deep learning toolkit from Facebook | :heavy_check_mark: | :heavy_check_mark: | Python | [Github](https://github.com/pytorch/pytorch) |
 | [Open CV](https://opencv.org)| Computer Vision Library | :heavy_check_mark: | :heavy_check_mark: | C++, Python, Java | [Github](https://github.com/opencv/opencv) |
 
 JS libraries (would you ever prefer to dump heavy load on the client :trollface:):
