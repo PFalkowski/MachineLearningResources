@@ -13,6 +13,7 @@ Playgrounds:
 
 Infographics:
 - [Neural Network Zoo](http://www.asimovinstitute.org/neural-network-zoo/)
+- [A visual introduction to machine learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 
 Frameworks:
 - [Orange Ai](https://orange.biolab.si/) : Open source machine learning and data visualization tool. [Repo on github](https://github.com/biolab/orange3)
