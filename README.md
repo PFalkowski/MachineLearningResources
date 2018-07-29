@@ -16,14 +16,17 @@ Infographics:
 - [A visual introduction to machine learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 
 Frameworks:
-- [Orange Ai](https://orange.biolab.si/) : Open source machine learning and data visualization tool. [Repo on github](https://github.com/biolab/orange3)
-- [ML.NET](https://www.microsoft.com/net/learn/apps/machine-learning-and-ai/ml-dotnet): Open source, cross-platform machine learning framework for .NET. [Repo on github](https://github.com/dotnet/machinelearning)
-- [Encog](https://www.heatonresearch.com/encog/): Open source, cross-platform advanced machine learning framework for .NET with ANN. [Repo on github](https://github.com/encog/encog-dotnet-core)
-- [Accord.Net](http://accord-framework.net/): Open source, advanced machine learning framework for .NET with ANN, audio and image processing libraries. [Repo on github](https://github.com/accord-net/framework)
-- [CNTK](https://www.microsoft.com/en-us/cognitive-toolkit/): Open source, expert deep learning toolkit from Microsoft. Supports CUDA. [Repo on github](https://github.com/Microsoft/CNTK)
-- [Tensor Flow](https://www.tensorflow.org/): Open source, expert deep learning framework from Google. Build for extreme parallelism. Supports CUDA. [Repo on github](https://github.com/vahidk/EffectiveTensorflow)
-- [PyTorch](https://facebook.ai/developers/tools#frameworks): Open source, expert deep learning toolkit from Facebook. Supports CUDA. [Repo on github](https://github.com/pytorch/pytorch)
-- [Open CV](https://opencv.org) Open Source Computer Vision Library. [Repo on github](https://github.com/opencv/opencv)
+
+| Name        | Description | Open Source           | CUDA | Repository  |
+| ------------- |:------------|:-------------:|:-------------:| -----:|
+| [Orange Ai](https://orange.biolab.si/) | Open source machine learning and data visualization tool | :heavy_check_mark: | :x: | [Github](https://github.com/biolab/orange3) |
+| [ML.NET](https://www.microsoft.com/net/learn/apps/machine-learning-and-ai/ml-dotnet) | cross-platform machine learning framework for .NET | :heavy_check_mark: | :x: | [Github](https://github.com/dotnet/machinelearning) |
+| [Encog](https://www.heatonresearch.com/encog/) | cross-platform advanced machine learning framework for .NET with ANN | :heavy_check_mark: | :x: | [Github](https://github.com/encog/encog-dotnet-core) |
+| [Accord.Net](http://accord-framework.net/) | advanced machine learning framework for .NET with ANN, audio and image processing libraries | :heavy_check_mark: | :x: | [Github](https://github.com/accord-net/framework) |
+| [CNTK](https://www.microsoft.com/en-us/cognitive-toolkit/) | expert deep learning toolkit from Microsoft | :heavy_check_mark: | :heavy_check_mark: | [Github](https://github.com/Microsoft/CNTK) |
+| [Tensor Flow](https://www.tensorflow.org/) | expert deep learning toolkit from Facebook | :heavy_check_mark: | :heavy_check_mark: | [Github](https://github.com/vahidk/EffectiveTensorflow) |
+| [PyTorch](https://facebook.ai/developers/tools#frameworks)| expert deep learning framework from Google built for extreme parallelism | :heavy_check_mark: | :heavy_check_mark: | [Github](https://github.com/pytorch/pytorch) |
+| [Open CV](https://opencv.org)| Computer Vision Library | :heavy_check_mark: | :heavy_check_mark: | [Github](https://github.com/opencv/opencv) |
 
 JS libraries (would you ever prefer to dump heavy load on the client :trollface:):
 - [brain.js](https://github.com/BrainJS/brain.js)
