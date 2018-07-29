@@ -1,7 +1,6 @@
 # Machine Learning Resources
 Resources to kick start your machine learning project. 
-Prefered are free / open source and practical resources. 
-The ordering is from beginner to expert.
+Prefered are free / open source, practical resources.
 
 Similar lists:
 - [deeplearning.net](http://deeplearning.net/)
