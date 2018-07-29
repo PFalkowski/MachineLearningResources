@@ -19,6 +19,11 @@ Comparisions:
 - [Comparison of deep learning software](https://en.wikipedia.org/wiki/Comparison_of_deep_learning_software)
 - [CUDA enabled deep learning frameworks](https://www.nvidia.com/en-us/deep-learning-ai/developer/)
 
+Tutorials:
+
+- [Andrew Ng on Coursera](https://www.coursera.org/learn/machine-learning) Level: beginner. Cost: free
+- [Google ML tutorials](https://ai.google/education/) Level: beginner. Cost: free
+
 Books:
 - [Clever Algorithms](https://pl.scribd.com/document/47728903/Jason-Brownlee-Clever-Algorithms) (Ruby)
 - Exploring Neural Networks with C#. [Free edition in Polish](http://otworzksiazke.pl/images/ksiazki/odkrywanie_wlasciwosci_sieci_neuronowych/odkrywanie_wlasciwosci_sieci_neuronowych.pdf)
