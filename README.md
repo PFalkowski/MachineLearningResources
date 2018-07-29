@@ -11,9 +11,9 @@ Frameworks:
 - [ML.NET](https://www.microsoft.com/net/learn/apps/machine-learning-and-ai/ml-dotnet): Open source, cross-platform machine learning framework for .NET. [Repo on github](https://github.com/dotnet/machinelearning)
 - [Encog](https://www.heatonresearch.com/encog/): Open source, cross-platform advanced machine learning framework for .NET with ANN. [Repo on github](https://github.com/encog/encog-dotnet-core)
 - [Accord.Net](http://accord-framework.net/): Open source, advanced machine learning framework for .NET with ANN, audio and image processing libraries. [Repo on github](https://github.com/accord-net/framework)
-- [CNTK](https://www.microsoft.com/en-us/cognitive-toolkit/): Open source, expert deep learning toolkit from Microsoft. [Repo on github](https://github.com/Microsoft/CNTK)
-- [Tensor Flow](https://www.tensorflow.org/): Open source, expert deep learning framework from Google. Build for extreme parallelism. [Repo on github](https://github.com/vahidk/EffectiveTensorflow)
-- [PyTorch](https://facebook.ai/developers/tools#frameworks): Open source, expert deep learning toolkit from Facebook. [Repo on github](https://github.com/pytorch/pytorch)
+- [CNTK](https://www.microsoft.com/en-us/cognitive-toolkit/): Open source, expert deep learning toolkit from Microsoft. Supports CUDA. [Repo on github](https://github.com/Microsoft/CNTK)
+- [Tensor Flow](https://www.tensorflow.org/): Open source, expert deep learning framework from Google. Build for extreme parallelism. Supports CUDA. [Repo on github](https://github.com/vahidk/EffectiveTensorflow)
+- [PyTorch](https://facebook.ai/developers/tools#frameworks): Open source, expert deep learning toolkit from Facebook. Supports CUDA. [Repo on github](https://github.com/pytorch/pytorch)
 
 Comparisions:
 - [Comparison of deep learning software](https://en.wikipedia.org/wiki/Comparison_of_deep_learning_software)
