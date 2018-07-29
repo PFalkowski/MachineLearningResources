@@ -27,7 +27,7 @@ Tutorials:
 - [Columbia University course](https://www.class-central.com/course/edx-machine-learning-7231) Advanced, free course covering only ML algorithms (no ANN)
 - [courses on Udacity](https://eu.udacity.com/courses/all)
 - [Learn Watson API on codeacademy](https://www.codecademy.com/learn/ibm-watson) Level: beginner/advanced. Cost: free
-- [MIT lectures "Deep Learning for Self-Driving Cars"](https://selfdrivingcars.mit.edu/) Level: beginner/advanced. Cost: free
+- [MIT lectures "Deep Learning for Self-Driving Cars"](https://selfdrivingcars.mit.edu/) Level: advanced. Cost: free
 
 Books:
 - [Machine Learning Using C#](https://www.syncfusion.com/ebooks/machine) free
