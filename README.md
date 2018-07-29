@@ -13,11 +13,14 @@ Frameworks:
 - [PyTorch](https://facebook.ai/developers/tools#frameworks) [repo](https://github.com/pytorch/pytorch): Open source, expert deep learning toolkit from Facebook
 
 Comparisions:
-- [CUDA enabled deep learning frameworks](https://www.nvidia.com/en-us/deep-learning-ai/developer/)
 - [Comparison of deep learning software](https://en.wikipedia.org/wiki/Comparison_of_deep_learning_software)
+- [CUDA enabled deep learning frameworks](https://www.nvidia.com/en-us/deep-learning-ai/developer/)
 
 Books:
-- Exploring Neural Networks with C#. [Free edition in Polish](http://otworzksiazke.pl/images/ksiazki/odkrywanie_wlasciwosci_sieci_neuronowych/odkrywanie_wlasciwosci_sieci_neuronowych.pdf)
-- Metody i Techniki Sztucznej Inteigencji (Polish)
 - [Clever Algorithms](https://pl.scribd.com/document/47728903/Jason-Brownlee-Clever-Algorithms) (Ruby)
+- Exploring Neural Networks with C#. [Free edition in Polish](http://otworzksiazke.pl/images/ksiazki/odkrywanie_wlasciwosci_sieci_neuronowych/odkrywanie_wlasciwosci_sieci_neuronowych.pdf)
 - Machine Learning For Hackers (R). [Code for the book](https://github.com/johnmyleswhite/ML_for_Hackers)
+- Metody i Techniki Sztucznej Inteigencji (Polish)
+
+
+Pull requests will be accepted after review
