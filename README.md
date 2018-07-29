@@ -1,6 +1,7 @@
 # Machine Learning Resources
 Resources to kick start your machine learning project. 
 Prefered are free / open source, practical resources.
+The list is slighlty biased towards c# / .NET Framework.
 
 Similar lists:
 - [deeplearning.net](http://deeplearning.net/)
