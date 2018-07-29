@@ -46,13 +46,18 @@ Tutorials:
 - [Intro to AI](https://eu.udacity.com/course/intro-to-artificial-intelligence--cs271) Level: beginner. Cost: free
 - [Intro to Machine Learning](https://eu.udacity.com/course/intro-to-machine-learning--ud120) Level: beginner. Cost: free
 - [Statistics and probability on Khan Academy](https://www.khanacademy.org/math/statistics-probability) Level: beginner. Cost: free
-- [Short top 10 of ML algorithms](https://www.kdnuggets.com/2016/08/10-algorithms-machine-learning-engineers.html)
+- [Top 10 of ML algorithms](https://www.kdnuggets.com/2016/08/10-algorithms-machine-learning-engineers.html)
 - [The 10 Statistical Techniques Data Scientists Need to Master](https://medium.com/cracking-the-data-science-interview/the-10-statistical-techniques-data-scientists-need-to-master-1ef6dbd531f7) Short article on statistical learning
-- [Geoffrey Hinton on Coursera](https://www.coursera.org/course/neuralnets) Level: beginner/advanced. Cost: free
+- [Introduction to Machine Learning with ENCOG 3](https://app.pluralsight.com/library/courses/introduction-to-machine-learning-encog/table-of-contents) Level: beginner. Cost: pluralsight subsription
+- [Deep Learning with Keras](https://app.pluralsight.com/library/courses/introduction-to-machine-learning-encog/table-of-contents) Level: beginner. Cost: pluralsight subsription
+- [TensorFlow: Getting Started](https://app.pluralsight.com/library/courses/tensorflow-getting-started/table-of-contents) Level: beginner. Cost: pluralsight subsription
+- [Neural Networks for Machine Learning](https://www.coursera.org/course/neuralnets) Level: beginner/advanced. Cost: free
 - [Learn Watson API on codeacademy](https://www.codecademy.com/learn/ibm-watson) Level: beginner/advanced. Cost: free
 - [UC Berkeley Intro to AI](http://ai.berkeley.edu/lecture_videos.html) Level: beginner/advanced. Cost: free
 - [Hal Daumé III - A Course in Machine Learning](http://ciml.info/dl/v0_99/ciml-v0_99-all.pdf) Level: beginner/advanced. Cost: free
 - [Machine Learning by Georgia Tech](https://udacity.com/course/machine-learning--ud262) Level: beginner/advanced. Cost: free
+- [Advanced Machine Learning with ENCOG](https://app.pluralsight.com/library/courses/advanced-machine-learning-encog/table-of-contents) Level: beginner/advanced. Cost: pluralsight subsription
+- [Advanced Machine Learning with ENCOG - Part 2](https://app.pluralsight.com/library/courses/advanced-machine-learning-encog-pt2/table-of-contents) Level: beginner/advanced. Cost: pluralsight subsription
 - [Columbia University course](https://www.class-central.com/course/edx-machine-learning-7231) Advanced, free course covering only ML algorithms (no ANN)
 - [MIT lectures "Deep Learning for Self-Driving Cars"](https://selfdrivingcars.mit.edu/) Level: advanced. Cost: free
 - [Reinforcement learning by Georgia Tech](https://eu.udacity.com/course/reinforcement-learning--ud600) Level: advanced. Cost: free
