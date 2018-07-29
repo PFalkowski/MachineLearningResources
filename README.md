@@ -55,6 +55,10 @@ JS libraries (would you ever prefer to dump heavy load on the client :trollface:
 APIs:
 - [Google Cloud Machine Learning Engine](https://cloud.google.com/ml-engine/)
 - [Google Cloud Natural Language API](https://cloud.google.com/natural-language/)
+- [IBM watson](https://www.ibm.com/watson/)
+- [Azure Machine Learning Studio](https://azure.microsoft.com/pl-pl/services/machine-learning-studio/)
+- [Clarifai](https://clarifai.com/)
+- [Cloudsight](https://cloudsight.ai/)
 
 Comparisions:
 - [Comparison of deep learning software](https://en.wikipedia.org/wiki/Comparison_of_deep_learning_software)
