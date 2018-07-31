@@ -104,6 +104,7 @@ Books:
 Hardware:
 - [GPU for deep learning](https://hardwarerecs.stackexchange.com/questions/1606/gpu-for-deep-learning/1609#1609)
 - [DIGITS DevBox](https://developer.nvidia.com/devbox)
+- [Jetson TX2](https://www.nvidia.pl/autonomous-machines/embedded-systems-dev-kits-modules/)
 - [Neurogrid](https://news.stanford.edu/pr/2014/pr-neurogrid-boahen-engineering-042814.html)
 
 Similar lists:
