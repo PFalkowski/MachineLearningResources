@@ -28,6 +28,7 @@ Frameworks:
 JS libraries (would you ever prefer to dump heavy load on the client :trollface:):
 - [brain.js](https://github.com/BrainJS/brain.js)
 - [convnetjs](https://github.com/karpathy/convnetjs)
+- [synaptic](https://github.com/cazala/synaptic)
 - [brain](https://github.com/harthur/brain)
 
 APIs:
