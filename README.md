@@ -128,4 +128,4 @@ Similar lists:
 - [miguelsaddress/machine-learning-resources](https://github.com/miguelsaddress/machine-learning-resources)
 - [eyurtsev/ml-resources](https://github.com/eyurtsev/ml-resources)
 
-Pull requests will be accepted after review
+Pull requests will be accepted after successful review
