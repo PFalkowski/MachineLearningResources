@@ -25,7 +25,7 @@ Frameworks:
 | [PyTorch](https://facebook.ai/developers/tools#frameworks)| Expert deep learning toolkit from Facebook | :heavy_check_mark: | :heavy_check_mark: | Python | [Github](https://github.com/pytorch/pytorch) |
 | [Open CV](https://opencv.org)| Computer Vision Library | :heavy_check_mark: | :heavy_check_mark: | C++, Python, Java | [Github](https://github.com/opencv/opencv) |
 
-JS libraries (would you ever prefer to dump heavy load on the client :trollface:):
+JS libraries :trollface:
 - [brain.js](https://github.com/BrainJS/brain.js)
 - [convnetjs](https://github.com/karpathy/convnetjs)
 - [synaptic](https://github.com/cazala/synaptic)
