@@ -63,9 +63,11 @@ Tutorials:
 - [UC Berkeley Intro to AI](http://ai.berkeley.edu/lecture_videos.html) Level: beginner/advanced. Cost: free
 - [Hal Daumé III - A Course in Machine Learning](http://ciml.info/dl/v0_99/ciml-v0_99-all.pdf) Level: beginner/advanced. Cost: free
 - [Machine Learning by Georgia Tech](https://udacity.com/course/machine-learning--ud262) Level: beginner/advanced. Cost: free
+- [Machine Learning for Trading by Georgia Tech](https://eu.udacity.com/course/machine-learning-for-trading--ud501) Level: intermidiate. Cost: free
 - [Advanced Machine Learning with ENCOG](https://app.pluralsight.com/library/courses/advanced-machine-learning-encog/table-of-contents) Level: beginner/advanced. Cost: Pluralsight subsription
 - [Advanced Machine Learning with ENCOG - Part 2](https://app.pluralsight.com/library/courses/advanced-machine-learning-encog-pt2/table-of-contents) Level: beginner/advanced. Cost: Pluralsight subsription
 - [Columbia University course](https://www.class-central.com/course/edx-machine-learning-7231) Advanced, free course covering only ML algorithms (no ANN)
+- [Deep Learning byGoogle](https://eu.udacity.com/course/deep-learning--ud730) Advanced, deep-l;earning focused course
 - [MIT lectures "Deep Learning for Self-Driving Cars"](https://selfdrivingcars.mit.edu/) Level: advanced. Cost: free
 - [Reinforcement learning by Georgia Tech](https://eu.udacity.com/course/reinforcement-learning--ud600) Level: advanced. Cost: free
 - [Unsupervised Learning by Georgia Tech](https://eu.udacity.com/course/machine-learning-unsupervised-learning--ud741) Level: advanced. Cost: free
