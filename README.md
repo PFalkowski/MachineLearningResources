@@ -6,7 +6,8 @@ The list is slighlty biased towards c# / .NET Framework.
 
 Playgrounds:
 - [Tensor Flow playground](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.46357&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
-- [AI Experiments](https://experiments.withgoogle.com/collection/ai)
+- [Google AI Experiments](https://experiments.withgoogle.com/collection/ai)
+- [Microsoft AI Experiments](https://www.ailab.microsoft.com/experiments)
 
 Infographics:
 - [Neural Network Zoo](http://www.asimovinstitute.org/neural-network-zoo/)
@@ -32,6 +33,8 @@ JS libraries :trollface:
 - [brain](https://github.com/harthur/brain)
 
 APIs:
+- [Microsoft Cognitive Services](https://azure.microsoft.com/pl-pl/services/cognitive-services/)
+- [Google ai solutions](https://cloud.google.com/solutions/ai/)
 - [Google Cloud Machine Learning Engine](https://cloud.google.com/ml-engine/)
 - [Google Cloud Natural Language API](https://cloud.google.com/natural-language/)
 - [IBM watson](https://www.ibm.com/watson/)
