@@ -133,5 +133,6 @@ Similar lists:
 - [GeorgeMcIntire/collection_free_DL_resources](https://github.com/GeorgeMcIntire/collection_free_DL_resources)
 - [miguelsaddress/machine-learning-resources](https://github.com/miguelsaddress/machine-learning-resources)
 - [eyurtsev/ml-resources](https://github.com/eyurtsev/ml-resources)
+- [20 ml projects](https://www.ubuntupit.com/top-20-best-machine-learning-projects-for-beginner-to-professional/)
 
 Pull requests will be accepted after successful review
